@@ -1,0 +1,26 @@
+Type of Soil,Season,Rainfall in mm,crop_name
+1,5,2100,Sugarcane
+1,5,2400,Rice
+1,5,1200,Ragi
+1,5,1150,Cotton
+1,4,750,Wheat
+1,4,800,Linseed
+1,4,575,Sunflower
+1,4,900,Citrus fruits
+1,4,400,Jowar
+2,5,2400,Rice
+2,5,1400,Groundnut
+2,5,1200,Ragi
+2,5,1500,Maize
+2,5,1000,Millets
+2,4,750,Wheat
+2,4,500,Barley
+2,4,600,Gram
+2,4,800,Vegetables
+2,4,900,Mustard
+3,4,300,Carrot
+3,4,450,Fenugreek
+3,4,400,Turnip
+3,4,200,Watermellon
+3,5,1000,Millets
+3,4,400,Jowar

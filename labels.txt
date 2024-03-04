@@ -1,0 +1,3 @@
+0 Black Soil
+1 Clayey Soil
+2 Sandy Soil
