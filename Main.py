@@ -40,7 +40,7 @@ g = geocoder.ip('me')
 
 month_text = datetime.now().strftime("%B")
 
-API = "AIzaSyDZEun_VK4gVV8oroCaYmpiXJACASQQH_A"
+API = "AIzaSyBocyA3oj9lGFyHn_zh7mZvXyGJCk_ejeE" 
 
 genai.configure(
     api_key=API
